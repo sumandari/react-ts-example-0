@@ -19,13 +19,13 @@
   align-items: center;
   margin-bottom: 5px;
 }
-.header-icon {
+.headerIcon {
   width: 30px;
 }
-.header-text {
+.headerText {
   font-weight: bold;
 }
-.close-button {
+.closeButton {
   border: none;
   background: transparent;
   margin-left: auto;
